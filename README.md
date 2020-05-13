@@ -1,4 +1,4 @@
-# IETI_LAB13 - Create an Android project
+# IETI_LAB13 - Android Local Storage & List Views
 # Build with
 El proyecto se desarrollo usando Android Studio.
 
